@@ -60,7 +60,7 @@ Steps & Commands:
 
 Answer: `ACME-TEST`
 
-Evidence to capture: screenshot of `sysinfo`.
+[Compromisation Phase](./screenshots/Compromisation-Phase.png)
 
 ---
 
@@ -78,7 +78,7 @@ Steps & Commands:
 
 Answer: `FLASH`
 
-Evidence to capture: screenshot showing domain details.
+[Processes](./screenshots/Processes.png)
 
 ---
 
