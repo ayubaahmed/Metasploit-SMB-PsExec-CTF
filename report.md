@@ -60,7 +60,7 @@ Steps & Commands:
 
 Answer: `ACME-TEST`
 
-[Compromisation Phase](Screenshots/Compromisation-Phase.png)
+[Compromisation Phase](./Screenshots/Compromisation-Phase.png)
 
 ---
 
