@@ -78,7 +78,7 @@ Steps & Commands:
 
 Answer: `FLASH`
 
-[Processes](./screenshots/Processes.png)
+(./Screenshots/Enum_Domain.png)
 
 ---
 
@@ -96,7 +96,7 @@ Steps & Commands:
 
 Answer: `speedster`
 
-Evidence to capture: screenshot of the shares list.
+(./Screenshots/Enum_Shares.png)
 
 ---
 
@@ -115,7 +115,7 @@ Steps & Commands:
 
 Answer: `69596c7aa1e8daee17f8e78870e25a5c`
 
-Evidence to capture: screenshot of the hashdump output.
+(./Screenshots/Hashdump.png)
 
 ---
 
@@ -132,7 +132,7 @@ Steps & Commands:
 
 Answer: `Trustno1`
 
-Evidence to capture: redacted snippet showing cracked password.
+(./Screenshots/Hash%20cracker.png)
 
 ---
 
@@ -149,7 +149,7 @@ Steps & Commands:
 
 Answer (full path): `c:\Program Files (x86)\Windows Multimedia Platform\secrets.txt`
 
-Evidence to capture: screenshot of search results and file contents.
+![Secrets](./Screenshots/secrets.png)
 
 ---
 
@@ -166,7 +166,7 @@ Steps & Commands:
 
 Answer: `KDSvbsw3849!`
 
-Evidence to capture: redacted snippet showing Twitter password.
+![Secrets](./Screenshots/secrets.png)
 
 ---
 
@@ -183,7 +183,7 @@ Steps & Commands:
 
 Answer (full path): `c:\inetpub\wwwroot\realsecret.txt`
 
-Evidence to capture: screenshot of search results.
+(./Screenshots/realsecrets.png)
 
 ---
 
@@ -200,7 +200,7 @@ Steps & Commands:
 
 Answer: `The Flash is the fastest man alive`
 
-Evidence to capture: screenshot of file content (redact if necessary).
+(./Screenshots/realsecrets.png)
 
 ---
 
