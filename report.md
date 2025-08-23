@@ -203,17 +203,3 @@ Answer: `The Flash is the fastest man alive`
 (./Screenshots/realsecrets.png)
 
 ---
-
-## Evidence Folder
-
-Place supporting screenshots in `/screenshots` and reference them inline:
-
----
-
-## Key Takeaways
-
-- Practised authenticated SMB access using `psexec` and established a Meterpreter session.  
-- Migrated into `lsass.exe` to achieve SYSTEM context for credential dumping.  
-- Cracked NTLM hashes to obtain cleartext passwords.  
-- Discovered and exfiltrated sensitive files to answer investigation questions.  
-- Documented a clear, reproducible methodology for each question with evidence.
