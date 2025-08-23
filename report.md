@@ -1,4 +1,4 @@
-# Metasploit SMB PsExec CTF Lab (Walkthrough + Answers)
+# Metasploit: Meterpreter – SMB Exploitation & Credential Analysis (Walkthrough + Answers)
 
 This project documents a full end-to-end workflow from a Capture The Flag (CTF) lab using the Metasploit Framework to simulate an SMB compromise and conduct post-exploitation with Meterpreter.  
 It explains exactly how each answer was derived, with commands, reasoning, and evidence.
