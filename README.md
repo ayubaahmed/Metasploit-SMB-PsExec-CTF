@@ -1,6 +1,6 @@
 # Metasploit: Meterpreter – SMB Exploitation & Credential Analysis Walkthrough
 
-This repository contains a complete walkthrough of a Capture The Flag (CTF) lab using the Metasploit Framework to simulate an SMB compromise and perform post-exploitation with Meterpreter. The walkthrough includes step-by-step explanations, commands, and screenshots as evidence.
+This repository contains a complete walkthrough of a lab using the Metasploit Framework to simulate an SMB compromise and perform post-exploitation with Meterpreter. The walkthrough includes step-by-step explanations, commands, and screenshots as evidence.
 
 > **Legal & Ethics**  
 > All activities in this lab were carried out in a controlled environment with full authorisation. These techniques should **not** be used on any systems you do not own or have explicit permission to test.
